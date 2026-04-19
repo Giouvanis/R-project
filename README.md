@@ -29,7 +29,6 @@ PCA.csv: Exported principal component data for reproducibility.
 📈 Key Results
 The analysis identifies how the presence of specific minerals and symbiotic relationships drive global transcriptomic changes.
 
-(Pro-tip: After you upload your PCA plot image to GitHub, you can drag and drop the image right here in the README to show the results visually!)
 
 <img width="972" height="715" alt="Picture_1 (PC1 and PC2 variance)" src="https://github.com/user-attachments/assets/810dde66-1bd0-4442-a56d-dddac800600d" />
 <img width="1065" height="643" alt="Picture_3 group_2" src="https://github.com/user-attachments/assets/9ace30c0-c3e5-4f55-a424-1ce5c086e294" />
